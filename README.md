@@ -17,12 +17,9 @@ test.csv - the test set
 
 sample_submission.csv - A sample submission in the correct format
 
-Data fields"
-
+Data fields:
 qid - unique question identifier
-
 question_text - Quora question text
-
 target - a question labeled "insincere" has a value of 1, otherwise 0
 
 Embeddings:
