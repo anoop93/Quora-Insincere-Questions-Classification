@@ -10,11 +10,8 @@ Quora is a platform that empowers people to learn from each other. On Quora, peo
 In this competition, Kagglers will develop models that identify and flag insincere questions.
 
 File descriptions:
-
 train.csv - the training set
-
 test.csv - the test set
-
 sample_submission.csv - A sample submission in the correct format
 
 Data fields:
